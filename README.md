@@ -1,3 +1,4 @@
-# SB_CPU_KUSOZAKO_DEBUGGER
+# SB_CPU_IMPRACTICAL_DEBUGGER
 
-このまま実行してもエラー起きるだけです
+このまま実行してもエラーが起きるだけです
+もし使いたいのであればSB_toolsや辞書を自分で設計して頑張りましょう
